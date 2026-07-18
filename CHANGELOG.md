@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.7.0 — 2026-07-18
+Recorded Constitutional Resolution 001, linked to the Constitutional Foundation.
+
+- New `constitutional-resolutions/` — constitutional rulings recorded directly rather than integrated from source material.
+- `constitutional-resolutions/001-constitution-founded-on-enduring-principles.md` — the resolution, recorded verbatim, with provenance and a link to the Foundation.
+- `constitutional-foundation/README.md` and root `README.md` updated to reference the new folder. No existing constitutional document was modified. No document integrated.
+
 ## 0.6.0 — 2026-07-18
 Integrated the Founding Partners Charter — completing the constitutional backbone the Creator Constitution originally named (Executive Briefing, Technical Architecture, Governance Charter, Founding Partners Charter).
 

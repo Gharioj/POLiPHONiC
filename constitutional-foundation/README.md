@@ -13,3 +13,7 @@ Material is added here only after it has been reviewed for integration — not b
 | [Technical Architecture](technical-architecture.md) | [technical-architecture.provenance.md](technical-architecture.provenance.md) |
 | [Governance Charter](governance-charter.md) | [governance-charter.provenance.md](governance-charter.provenance.md) |
 | [Founding Partners Charter](founding-partners-charter.md) | [founding-partners-charter.provenance.md](founding-partners-charter.provenance.md) |
+
+## Constitutional Resolutions
+
+Rulings recorded directly rather than integrated from source material are tracked separately in [`constitutional-resolutions/`](../constitutional-resolutions/README.md).

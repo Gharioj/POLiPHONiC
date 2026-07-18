@@ -8,6 +8,7 @@ Repository initialised. No constitutional content has been integrated yet.
 
 - [`constitutional-foundation/`](constitutional-foundation/README.md) — the integrated constitutional record. The primary knowledge structure for POLiPHONiC, populated only once material has been reviewed and integrated.
 - [`constitutional-staging/`](constitutional-staging/README.md) — constitutional knowledge awaiting integration, held here with its provenance recorded, prior to review.
+- [`constitutional-resolutions/`](constitutional-resolutions/README.md) — constitutional rulings recorded directly, linked to the Foundation without modifying it.
 
 ## Phase
 
