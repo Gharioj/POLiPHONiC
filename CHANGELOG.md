@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.11.0 — 2026-07-18
+Integrated the Technical Implementation Specification, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/technical-implementation-specification.md` — transcribed from its source `.docx`.
+- `constitutional-foundation/technical-implementation-specification.provenance.md` — provenance record, including a methodological finding: cross-referencing this session's integrated documents' own "Constitutional Provenance" lists reveals a reconstructable 39-document authorship order for the whole corpus, used from here on to select what to integrate next.
+- Source document left unchanged. No other document integrated. No previously integrated document modified.
+
 ## 0.10.0 — 2026-07-18
 Integrated the Constitutional Dispute Resolution Framework, continuing autonomous constitutional integration.
 

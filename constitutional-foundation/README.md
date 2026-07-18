@@ -16,6 +16,7 @@ Material is added here only after it has been reviewed for integration — not b
 | [Constitutional Governance Procedures Framework](governance-procedures-framework.md) | [governance-procedures-framework.provenance.md](governance-procedures-framework.provenance.md) |
 | [Constitutional Amendment Framework](amendment-framework.md) | [amendment-framework.provenance.md](amendment-framework.provenance.md) |
 | [Constitutional Dispute Resolution Framework](dispute-resolution-framework.md) | [dispute-resolution-framework.provenance.md](dispute-resolution-framework.provenance.md) |
+| [Technical Implementation Specification](technical-implementation-specification.md) | [technical-implementation-specification.provenance.md](technical-implementation-specification.provenance.md) |
 
 ## Constitutional Resolutions
 
