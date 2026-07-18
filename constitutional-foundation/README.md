@@ -34,6 +34,9 @@ Material is added here only after it has been reviewed for integration — not b
 | [Constitutional Recognition Framework](recognition-framework.md) | [recognition-framework.provenance.md](recognition-framework.provenance.md) |
 | [Constitutional Legacy Framework](legacy-framework.md) | [legacy-framework.provenance.md](legacy-framework.provenance.md) |
 | [Constitutional Creative Compacts Framework](creative-compacts-framework.md) | [creative-compacts-framework.provenance.md](creative-compacts-framework.provenance.md) |
+| [Constitutional Security Framework](security-framework.md) | [security-framework.provenance.md](security-framework.provenance.md) |
+| [Constitutional Privacy Framework](privacy-framework.md) | [privacy-framework.provenance.md](privacy-framework.provenance.md) |
+| [Constitutional AI Framework](ai-framework.md) | [ai-framework.provenance.md](ai-framework.provenance.md) |
 
 ## Constitutional Resolutions
 

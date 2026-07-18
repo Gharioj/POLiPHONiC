@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.21.0 — 2026-07-18
+Integrated the Constitutional Security (24), Privacy (25) and AI (26) Frameworks, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/security-framework.md`, `privacy-framework.md`, `ai-framework.md` and their `.provenance.md` companions.
+- All dependencies fully satisfied. The AI Framework's source had three additional numbered duplicate copies, all diffed and confirmed text-identical.
+- Source documents left unchanged. No previously integrated document modified.
+
 ## 0.20.0 — 2026-07-18
 Integrated the Constitutional Recognition (21), Legacy (22) and Creative Compacts (23) Frameworks, continuing autonomous constitutional integration.
 
