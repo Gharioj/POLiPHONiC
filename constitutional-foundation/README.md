@@ -28,6 +28,9 @@ Material is added here only after it has been reviewed for integration — not b
 | [Constitutional Identity Framework](identity-framework.md) | [identity-framework.provenance.md](identity-framework.provenance.md) |
 | [Constitutional Data Framework](data-framework.md) | [data-framework.provenance.md](data-framework.provenance.md) |
 | [Constitutional Provenance Framework](provenance-framework.md) | [provenance-framework.provenance.md](provenance-framework.provenance.md) |
+| [Constitutional Collaboration Framework](collaboration-framework.md) | [collaboration-framework.provenance.md](collaboration-framework.provenance.md) |
+| [Constitutional Rights Framework](rights-framework.md) | [rights-framework.provenance.md](rights-framework.provenance.md) |
+| [Constitutional Authorship Framework](authorship-framework.md) | [authorship-framework.provenance.md](authorship-framework.provenance.md) |
 
 ## Constitutional Resolutions
 

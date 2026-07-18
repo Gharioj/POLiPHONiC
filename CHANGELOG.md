@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.19.0 — 2026-07-18
+Integrated the Constitutional Collaboration (18), Rights (19) and Authorship (20) Frameworks, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/collaboration-framework.md`, `rights-framework.md`, `authorship-framework.md` and their `.provenance.md` companions.
+- All dependencies fully satisfied. Notable finding: the dedicated Rights Framework, the most likely place in the corpus to resolve the Creator Constitution's rights-vs-ownership tension, does not resolve it — it never mentions ownership. The Authorship Framework repeats the same unresolved distinction.
+- Source documents left unchanged. No previously integrated document modified.
+
 ## 0.18.0 — 2026-07-18
 Integrated the Constitutional Identity (15), Data (16) and Provenance (17) Frameworks, continuing autonomous constitutional integration.
 
