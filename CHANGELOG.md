@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.6.0 — 2026-07-18
+Integrated the Founding Partners Charter — completing the constitutional backbone the Creator Constitution originally named (Executive Briefing, Technical Architecture, Governance Charter, Founding Partners Charter).
+
+- `constitutional-foundation/founding-partners-charter.md` — the Founding Partners Charter, transcribed from its source `.docx`.
+- `constitutional-foundation/founding-partners-charter.provenance.md` — provenance record, dependency verification, and constitutional judgements made during integration.
+- Source document left unchanged at `Constitutional files development in progress No 46/`. No other document integrated.
+
 ## 0.5.0 — 2026-07-18
 Integrated the Governance Charter — the next constitutional dependency within the remaining backbone, verified as depending only on the already-integrated Executive Briefing and Technical Architecture.
 
