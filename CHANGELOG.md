@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.0 — 2026-07-18
+Integrated the Technical Architecture — the next constitutional dependency, verified as depending only on the already-integrated Executive Briefing.
+
+- `constitutional-foundation/technical-architecture.md` — the Technical Architecture, transcribed from its source `.docx`.
+- `constitutional-foundation/technical-architecture.provenance.md` — provenance record, dependency verification, and constitutional judgements made during integration, including a documented duplication found in the source (sections 5–7 appeared twice; the later, differently-formatted occurrence was kept, both are quoted in the provenance record).
+- Source document (and its duplicate copy) left unchanged at `Constitutional files development in progress No 46/`. No other document integrated.
+
 ## 0.3.0 — 2026-07-18
 Integrated the Executive Briefing — selected as the highest-priority remaining constitutional dependency, being the root document the Creator Constitution, Technical Architecture, Governance Charter and Founding Partners Charter all derive from.
 
