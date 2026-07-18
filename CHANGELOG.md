@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.10.0 — 2026-07-18
+Integrated the Constitutional Dispute Resolution Framework, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/dispute-resolution-framework.md` — transcribed from its source `.docx`.
+- `constitutional-foundation/dispute-resolution-framework.provenance.md` — provenance record; confirms the recurring undefined-mechanism gap (no forum or panel named), and notes this framework explicitly disclaims creating new rights, meaning it cannot itself resolve the Creator Constitution's rights-vs-ownership ambiguity.
+- Source document left unchanged. No other document integrated. No previously integrated document modified.
+
 ## 0.9.0 — 2026-07-18
 Integrated the Constitutional Amendment Framework, continuing autonomous constitutional integration.
 
