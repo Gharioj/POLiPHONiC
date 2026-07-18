@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.8.0 — 2026-07-18
+Integrated the Constitutional Governance Procedures Framework, per the prior Constitutional Review's recommendation.
+
+- `constitutional-foundation/governance-procedures-framework.md` — transcribed from its source `.docx`.
+- `constitutional-foundation/governance-procedures-framework.provenance.md` — provenance record, including a documented finding that this document's own stated dependency (38 named documents) is only 5/38 satisfied by the current Foundation, and that it does not itself define a governance body, decision-making entity, amendment procedure or dispute-resolution mechanism despite being selected to address that gap.
+- Source document left unchanged at `Constitutional files development in progress No 46/`. No other document integrated. No previously integrated document modified.
+
 ## 0.7.0 — 2026-07-18
 Recorded Constitutional Resolution 001, linked to the Constitutional Foundation.
 
