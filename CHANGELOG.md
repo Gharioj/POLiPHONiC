@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.18.0 — 2026-07-18
+Integrated the Constitutional Identity (15), Data (16) and Provenance (17) Frameworks, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/identity-framework.md`, `data-framework.md`, `provenance-framework.md` and their `.provenance.md` companions.
+- All dependencies fully satisfied; no new constitutional issues found. Source documents left unchanged. No previously integrated document modified.
+
 ## 0.17.0 — 2026-07-18
 Integrated the Constitutional Innovation Framework (position 13) and Constitutional Trust Framework (position 14), continuing autonomous constitutional integration.
 
