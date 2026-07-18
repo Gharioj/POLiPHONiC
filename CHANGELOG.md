@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.13.0 — 2026-07-18
+Integrated the Economic Participation Framework, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/economic-participation-framework.md` — transcribed from its source `.docx`.
+- `constitutional-foundation/economic-participation-framework.provenance.md` — provenance record; dependency fully satisfied, no new constitutional issues found.
+- Source document left unchanged. No other document integrated. No previously integrated document modified.
+
 ## 0.12.0 — 2026-07-18
 Integrated the Legal & Constitutional Framework, continuing autonomous constitutional integration.
 
