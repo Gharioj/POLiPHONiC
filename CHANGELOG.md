@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.12.0 — 2026-07-18
+Integrated the Legal & Constitutional Framework, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/legal-constitutional-framework.md` — transcribed from its source `.docx`; a missing section number (auto-numbering field lost in extraction) was restored for consistency.
+- `constitutional-foundation/legal-constitutional-framework.provenance.md` — provenance record; notes this document's rights and dispute-resolution sections cover the same ground as dedicated frameworks elsewhere in the corpus, without contradiction.
+- Source document left unchanged. No other document integrated. No previously integrated document modified.
+
 ## 0.11.0 — 2026-07-18
 Integrated the Technical Implementation Specification, continuing autonomous constitutional integration.
 
