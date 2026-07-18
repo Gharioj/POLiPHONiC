@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.15.0 — 2026-07-18
+Integrated the Constitutional Operations Framework, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/operations-framework.md` — transcribed from its source `.docx`.
+- `constitutional-foundation/operations-framework.provenance.md` — provenance record; dependency fully satisfied, no new constitutional issues found.
+- Source document left unchanged. No other document integrated. No previously integrated document modified.
+
 ## 0.14.0 — 2026-07-18
 Integrated the Constitutional Standards Framework, continuing autonomous constitutional integration.
 

@@ -20,6 +20,7 @@ Material is added here only after it has been reviewed for integration — not b
 | [Legal & Constitutional Framework](legal-constitutional-framework.md) | [legal-constitutional-framework.provenance.md](legal-constitutional-framework.provenance.md) |
 | [Economic Participation Framework](economic-participation-framework.md) | [economic-participation-framework.provenance.md](economic-participation-framework.provenance.md) |
 | [Constitutional Standards Framework](standards-framework.md) | [standards-framework.provenance.md](standards-framework.provenance.md) |
+| [Constitutional Operations Framework](operations-framework.md) | [operations-framework.provenance.md](operations-framework.provenance.md) |
 
 ## Constitutional Resolutions
 
