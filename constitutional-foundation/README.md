@@ -9,3 +9,4 @@ Material is added here only after it has been reviewed for integration — not b
 | Document | Provenance |
 |---|---|
 | [Creator Constitution](creator-constitution.md) | [creator-constitution.provenance.md](creator-constitution.provenance.md) |
+| [Executive Briefing](executive-briefing.md) | [executive-briefing.provenance.md](executive-briefing.provenance.md) |
