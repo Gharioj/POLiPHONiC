@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.23.0 — 2026-07-18
+Integrated the Constitutional Transparency (32), Knowledge (33), Publication (34), Terminology (35), Implementation (37) and Interpretation (38) Frameworks, completing the entire 39-document reconstructed sequence.
+
+- `constitutional-foundation/transparency-framework.md`, `knowledge-framework.md`, `publication-framework.md`, `terminology-framework.md`, `implementation-framework.md`, `interpretation-framework.md` and their `.provenance.md` companions.
+- All dependencies fully satisfied. Two further source-document defects found and handled per the Technical Architecture precedent (deduplicate/transcribe-what-exists, fabricate nothing): the Knowledge Framework duplicates sections 2–5 and is missing sections 6–7, the Closing Statement and Publication Information entirely; the Interpretation Framework is missing sections 2–5 outright. Both confirmed against raw XML, not just plain-text extraction.
+- Root `README.md` and `constitutional-foundation/README.md` updated to reflect that the full named corpus is now integrated.
+- Source documents left unchanged. No previously integrated document modified.
+
 ## 0.22.0 — 2026-07-18
 Integrated the Constitutional API & Integration (27), Compliance (28), Certification (29) and Custodianship (30) Frameworks, continuing autonomous constitutional integration.
 

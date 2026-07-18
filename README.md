@@ -2,7 +2,7 @@
 
 ## Status
 
-Repository initialised. No constitutional content has been integrated yet.
+All 39 documents named in the corpus's own "Constitutional Provenance" chain are integrated into `constitutional-foundation/`. One Constitutional Resolution has been recorded. See `CHANGELOG.md` for the full integration history.
 
 ## Structure
 
@@ -12,4 +12,4 @@ Repository initialised. No constitutional content has been integrated yet.
 
 ## Phase
 
-This is structural initialisation only. Constitutional Knowledge Integration — moving material from staging into the Foundation — is a later, separate phase.
+Constitutional Knowledge Integration of the named corpus is complete. Several unresolved constitutional questions remain (see the Constitutional Foundation's provenance records, e.g. rights vs. ownership, the undefined governance body/process, and two source documents found genuinely incomplete) — these await a Constitutional Resolution or further constitutional judgement, not further mechanical integration.

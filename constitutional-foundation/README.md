@@ -4,6 +4,8 @@ The primary, integrated knowledge structure for POLiPHONiC's constitutional reco
 
 Material is added here only after it has been reviewed for integration — not before. Each integrated document is accompanied by a `.provenance.md` companion file recording its source and the constitutional judgements made while integrating it.
 
+All 39 documents named anywhere in the corpus's own "Constitutional Provenance" chain are now integrated.
+
 ## Index
 
 | Document | Provenance |
@@ -41,6 +43,12 @@ Material is added here only after it has been reviewed for integration — not b
 | [Constitutional Compliance Framework](compliance-framework.md) | [compliance-framework.provenance.md](compliance-framework.provenance.md) |
 | [Constitutional Certification Framework](certification-framework.md) | [certification-framework.provenance.md](certification-framework.provenance.md) |
 | [Constitutional Custodianship Framework](custodianship-framework.md) | [custodianship-framework.provenance.md](custodianship-framework.provenance.md) |
+| [Constitutional Transparency Framework](transparency-framework.md) | [transparency-framework.provenance.md](transparency-framework.provenance.md) |
+| [Constitutional Knowledge Framework](knowledge-framework.md) | [knowledge-framework.provenance.md](knowledge-framework.provenance.md) |
+| [Constitutional Publication Framework](publication-framework.md) | [publication-framework.provenance.md](publication-framework.provenance.md) |
+| [Constitutional Terminology Framework](terminology-framework.md) | [terminology-framework.provenance.md](terminology-framework.provenance.md) |
+| [Constitutional Implementation Framework](implementation-framework.md) | [implementation-framework.provenance.md](implementation-framework.provenance.md) |
+| [Constitutional Interpretation Framework](interpretation-framework.md) | [interpretation-framework.provenance.md](interpretation-framework.provenance.md) |
 
 ## Constitutional Resolutions
 
