@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.9.0 — 2026-07-18
+Integrated the Constitutional Amendment Framework, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/amendment-framework.md` — transcribed from its source `.docx`.
+- `constitutional-foundation/amendment-framework.provenance.md` — provenance record; confirms the same undefined-mechanism gap found in the Governance Procedures Framework (amendment criteria are stated, but no proposer, approving body, or ratification step is named).
+- Source document left unchanged. No other document integrated. No previously integrated document modified.
+
 ## 0.8.0 — 2026-07-18
 Integrated the Constitutional Governance Procedures Framework, per the prior Constitutional Review's recommendation.
 

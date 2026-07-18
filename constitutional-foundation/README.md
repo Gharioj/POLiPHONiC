@@ -14,6 +14,7 @@ Material is added here only after it has been reviewed for integration — not b
 | [Governance Charter](governance-charter.md) | [governance-charter.provenance.md](governance-charter.provenance.md) |
 | [Founding Partners Charter](founding-partners-charter.md) | [founding-partners-charter.provenance.md](founding-partners-charter.provenance.md) |
 | [Constitutional Governance Procedures Framework](governance-procedures-framework.md) | [governance-procedures-framework.provenance.md](governance-procedures-framework.provenance.md) |
+| [Constitutional Amendment Framework](amendment-framework.md) | [amendment-framework.provenance.md](amendment-framework.provenance.md) |
 
 ## Constitutional Resolutions
 
