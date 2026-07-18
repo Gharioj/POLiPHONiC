@@ -2,4 +2,10 @@
 
 The primary, integrated knowledge structure for POLiPHONiC's constitutional record.
 
-This folder is currently empty. Material is added here only after it has passed through [`constitutional-staging/`](../constitutional-staging/README.md) and been reviewed for integration — not before.
+Material is added here only after it has been reviewed for integration — not before. Each integrated document is accompanied by a `.provenance.md` companion file recording its source and the constitutional judgements made while integrating it.
+
+## Index
+
+| Document | Provenance |
+|---|---|
+| [Creator Constitution](creator-constitution.md) | [creator-constitution.provenance.md](creator-constitution.provenance.md) |

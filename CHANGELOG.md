@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.0 — 2026-07-18
+Integrated the Creator Constitution — the first document in the Constitutional Foundation.
+
+- `constitutional-foundation/creator-constitution.md` — the Creator Constitution, transcribed faithfully from its source `.docx`.
+- `constitutional-foundation/creator-constitution.provenance.md` — provenance record and constitutional judgements made during integration.
+- Source document left unchanged at `Constitutional files development in progress No 46/`. No other document integrated.
+
 ## 0.1.0 — 2026-07-18
 Repository initialised.
 
