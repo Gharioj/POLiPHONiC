@@ -23,6 +23,8 @@ Material is added here only after it has been reviewed for integration — not b
 | [Constitutional Operations Framework](operations-framework.md) | [operations-framework.provenance.md](operations-framework.provenance.md) |
 | [Constitutional Assurance Framework](assurance-framework.md) | [assurance-framework.provenance.md](assurance-framework.provenance.md) |
 | [Constitutional Interoperability Framework](interoperability-framework.md) | [interoperability-framework.provenance.md](interoperability-framework.provenance.md) |
+| [Constitutional Innovation Framework](innovation-framework.md) | [innovation-framework.provenance.md](innovation-framework.provenance.md) |
+| [Constitutional Trust Framework](trust-framework.md) | [trust-framework.provenance.md](trust-framework.provenance.md) |
 
 ## Constitutional Resolutions
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.17.0 — 2026-07-18
+Integrated the Constitutional Innovation Framework (position 13) and Constitutional Trust Framework (position 14), continuing autonomous constitutional integration.
+
+- `constitutional-foundation/innovation-framework.md` and `.provenance.md`.
+- `constitutional-foundation/trust-framework.md` and `.provenance.md`.
+- Both dependencies fully satisfied; no new constitutional issues found. Source documents left unchanged. No previously integrated document modified.
+
 ## 0.16.0 — 2026-07-18
 Integrated the Constitutional Assurance Framework (position 11) and Constitutional Interoperability Framework (position 12), continuing autonomous constitutional integration.
 
