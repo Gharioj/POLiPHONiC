@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.22.0 — 2026-07-18
+Integrated the Constitutional API & Integration (27), Compliance (28), Certification (29) and Custodianship (30) Frameworks, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/api-integration-framework.md`, `compliance-framework.md`, `certification-framework.md`, `custodianship-framework.md` and their `.provenance.md` companions.
+- All dependencies fully satisfied. The Custodianship Framework repeats the "not ownership" disclaimer seen with rights and authorship, now applied to governance roles — reinforcing rather than resolving the unresolved rights-vs-ownership question. No custodian, custodial body, or succession procedure is named anywhere in the Foundation.
+- Source documents left unchanged. No previously integrated document modified.
+
 ## 0.21.0 — 2026-07-18
 Integrated the Constitutional Security (24), Privacy (25) and AI (26) Frameworks, continuing autonomous constitutional integration.
 

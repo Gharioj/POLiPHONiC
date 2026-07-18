@@ -37,6 +37,10 @@ Material is added here only after it has been reviewed for integration — not b
 | [Constitutional Security Framework](security-framework.md) | [security-framework.provenance.md](security-framework.provenance.md) |
 | [Constitutional Privacy Framework](privacy-framework.md) | [privacy-framework.provenance.md](privacy-framework.provenance.md) |
 | [Constitutional AI Framework](ai-framework.md) | [ai-framework.provenance.md](ai-framework.provenance.md) |
+| [Constitutional API & Integration Framework](api-integration-framework.md) | [api-integration-framework.provenance.md](api-integration-framework.provenance.md) |
+| [Constitutional Compliance Framework](compliance-framework.md) | [compliance-framework.provenance.md](compliance-framework.provenance.md) |
+| [Constitutional Certification Framework](certification-framework.md) | [certification-framework.provenance.md](certification-framework.provenance.md) |
+| [Constitutional Custodianship Framework](custodianship-framework.md) | [custodianship-framework.provenance.md](custodianship-framework.provenance.md) |
 
 ## Constitutional Resolutions
 
