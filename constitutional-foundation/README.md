@@ -11,3 +11,4 @@ Material is added here only after it has been reviewed for integration — not b
 | [Creator Constitution](creator-constitution.md) | [creator-constitution.provenance.md](creator-constitution.provenance.md) |
 | [Executive Briefing](executive-briefing.md) | [executive-briefing.provenance.md](executive-briefing.provenance.md) |
 | [Technical Architecture](technical-architecture.md) | [technical-architecture.provenance.md](technical-architecture.provenance.md) |
+| [Governance Charter](governance-charter.md) | [governance-charter.provenance.md](governance-charter.provenance.md) |

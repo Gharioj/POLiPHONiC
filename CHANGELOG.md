@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.0 — 2026-07-18
+Integrated the Governance Charter — the next constitutional dependency within the remaining backbone, verified as depending only on the already-integrated Executive Briefing and Technical Architecture.
+
+- `constitutional-foundation/governance-charter.md` — the Governance Charter, transcribed from its source `.docx`.
+- `constitutional-foundation/governance-charter.provenance.md` — provenance record, dependency verification, and constitutional judgements made during integration.
+- Source document left unchanged at `Constitutional files development in progress No 46/`. No other document integrated. The Founding Partners Charter, which depends on this document, remains outside the Foundation.
+
 ## 0.4.0 — 2026-07-18
 Integrated the Technical Architecture — the next constitutional dependency, verified as depending only on the already-integrated Executive Briefing.
 
