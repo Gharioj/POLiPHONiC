@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.16.0 — 2026-07-18
+Integrated the Constitutional Assurance Framework (position 11) and Constitutional Interoperability Framework (position 12), continuing autonomous constitutional integration.
+
+- `constitutional-foundation/assurance-framework.md` and `.provenance.md`.
+- `constitutional-foundation/interoperability-framework.md` and `.provenance.md`.
+- Both dependencies fully satisfied; no new constitutional issues found. Source documents left unchanged. No previously integrated document modified.
+
 ## 0.15.0 — 2026-07-18
 Integrated the Constitutional Operations Framework, continuing autonomous constitutional integration.
 
