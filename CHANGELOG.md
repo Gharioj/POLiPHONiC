@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.20.0 — 2026-07-18
+Integrated the Constitutional Recognition (21), Legacy (22) and Creative Compacts (23) Frameworks, continuing autonomous constitutional integration.
+
+- `constitutional-foundation/recognition-framework.md`, `legacy-framework.md`, `creative-compacts-framework.md` and their `.provenance.md` companions.
+- All dependencies fully satisfied. The Recognition Framework has six sections rather than the usual seven — verified as the source's actual structure, not a missing section.
+- Source documents left unchanged. No previously integrated document modified.
+
 ## 0.19.0 — 2026-07-18
 Integrated the Constitutional Collaboration (18), Rights (19) and Authorship (20) Frameworks, continuing autonomous constitutional integration.
 

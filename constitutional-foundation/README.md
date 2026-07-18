@@ -31,6 +31,9 @@ Material is added here only after it has been reviewed for integration — not b
 | [Constitutional Collaboration Framework](collaboration-framework.md) | [collaboration-framework.provenance.md](collaboration-framework.provenance.md) |
 | [Constitutional Rights Framework](rights-framework.md) | [rights-framework.provenance.md](rights-framework.provenance.md) |
 | [Constitutional Authorship Framework](authorship-framework.md) | [authorship-framework.provenance.md](authorship-framework.provenance.md) |
+| [Constitutional Recognition Framework](recognition-framework.md) | [recognition-framework.provenance.md](recognition-framework.provenance.md) |
+| [Constitutional Legacy Framework](legacy-framework.md) | [legacy-framework.provenance.md](legacy-framework.provenance.md) |
+| [Constitutional Creative Compacts Framework](creative-compacts-framework.md) | [creative-compacts-framework.provenance.md](creative-compacts-framework.provenance.md) |
 
 ## Constitutional Resolutions
 
