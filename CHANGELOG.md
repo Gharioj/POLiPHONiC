@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.28.0 — 2026-07-20
+Two small editorial fixes found during a full audit pass: normalised two backlink sentences (`economic-participation-framework.provenance.md`, `dispute-resolution-framework.provenance.md`) to the same "Indexed as" phrasing used by the other fifteen; and added a factual-currency note to `creator-constitution.provenance.md`'s first unresolved question, which named four dependency documents as unintegrated — they have in fact all been integrated since v0.6.0. The note states this fact only; it explicitly does not decide whether it resolves the underlying interim-authority question, which remains open.
+
+- No constitutional judgement made, no constitutional document's wording changed.
+
 ## 0.27.0 — 2026-07-20
 Clarified `constitutional-discoveries/README.md`: Discovery 005's "first identified" date (v0.12.0) predates Discovery 004's (v0.23.0), since 005 was only catalogued today despite originating earlier in the integration sequence. Added a short note distinguishing the index's own append-only ordering (never renumbered) from the "First identified" column's separate, earlier timeline, so the apparent non-monotonic ordering doesn't read as an error. Editorial clarification only.
 
