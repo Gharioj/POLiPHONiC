@@ -1,6 +1,8 @@
 # Constitutional Working Session — 2026-07-20 (Part 2)
 
-Three further constitutional discoveries, one architectural observation, and one development observation, submitted together as a three-part transmission and staged here verbatim, exactly as received. Nothing below has been reviewed, reconciled against the Constitutional Foundation or the first working session, or integrated. See [`2026-07-20-constitutional-discoveries-part2.provenance.md`](2026-07-20-constitutional-discoveries-part2.provenance.md) for provenance and a list of points a reviewer will need to address before any integration.
+Three further constitutional discoveries, submitted as part of a three-part transmission and staged here verbatim, exactly as received. Nothing below has been reviewed, reconciled against the Constitutional Foundation or the first working session, or integrated. See [`2026-07-20-constitutional-discoveries-part2.provenance.md`](2026-07-20-constitutional-discoveries-part2.provenance.md) for provenance and a list of points a reviewer will need to address before any integration.
+
+The same transmission also included an architectural observation and a development observation. Both explicitly describe themselves as organisational rather than doctrinal, so they are kept separately in [`2026-07-20-architecture-and-development-observations.md`](2026-07-20-architecture-and-development-observations.md) rather than alongside the discoveries below.
 
 ---
 
@@ -102,71 +104,4 @@ The Constitution is realised through its continual constitutional operation.
 
 ---
 
-## Constitutional Architecture Observation
-
-The constitutional architecture has now developed into four coherent constitutional domains.
-
-These are not constitutional amendments but an architectural observation intended to assist repository organisation.
-
-I. Constitutional Foundation
-
-- Constitution
-- Constitutional Purpose
-- Enduring Constitutional Values and Principles
-- Constitutional Integrity
-
-II. Constitutional Community
-
-- Constitutional Space
-- Constitutional Culture
-- Constitutional Participation
-- Constitutional Contribution
-- Constitutional Value
-- Constitutional Flourishing
-
-III. Constitutional Responsibility
-
-- Authorship
-- Constitutional Custodianship
-- Constitutional Responsibility
-- Constitutional Stewardship
-- Constitutional Service
-
-IV. Constitutional Governance
-
-- Constitutional Authority
-- Constitutional Rights
-- Constitutional Decision
-- Constitutional Governance
-- Constitutional Amendment
-- Ownership (recognised as an external legal/lawful relationship alongside, but distinct from, the constitutional order)
-
-This architectural grouping is intended to support repository organisation and traceability only.
-
----
-
-## Constitutional Development Observation
-
-This work represents the completion of the current constitutional discovery phase.
-
-The next constitutional phase is no longer primarily concerned with defining constitutional concepts.
-
-The next phase concerns constitutional operation.
-
-Future constitutional development should therefore focus on how the Constitution behaves in practice through constitutional scenarios, including (but not limited to):
-
-- admission of constitutional participants;
-- recognition of constitutional custodians;
-- exercise of constitutional stewardship;
-- constitutional governance;
-- constitutional decision-making;
-- constitutional review;
-- constitutional disagreement and resolution;
-- constitutional authority;
-- constitutional succession;
-- constitutional amendment;
-- protection of constitutional integrity;
-- preservation of constitutional purpose;
-- enabling constitutional flourishing.
-
-This observation is intended to assist repository organisation and future constitutional development. It is not itself constitutional doctrine unless incorporated elsewhere.
+*The architectural observation and development observation originally transmitted alongside these three discoveries are staged separately — see [`2026-07-20-architecture-and-development-observations.md`](2026-07-20-architecture-and-development-observations.md).*

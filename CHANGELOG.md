@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.35.0 — 2026-07-20
+Structural follow-through on the standing instructions to keep architectural observations separate from doctrine, maintain cross-references instead of consolidating reused names, and track undefined terms — without resolving, reconciling, or interpreting any of it.
+
+- **Split** `2026-07-20-constitutional-discoveries-part2.md`: the Architecture Observation and Development Observation (both explicitly self-described in the source as organisational, not doctrinal) moved into their own new file, `2026-07-20-architecture-and-development-observations.md`, leaving only the three "Constitutional Discovery" items in the original. No wording changed; the two files now share one provenance record, updated to describe both.
+- **Added** `constitutional-staging/UNDEFINED-TERMS.md`: an index of terms named in staged material with no definition anywhere in the repository (currently: Constitutional Integrity, Constitutional Decision). Lists only; defines nothing.
+- **Added reciprocal cross-references** on the Foundation side: `authorship-framework.provenance.md`, `rights-framework.provenance.md`, `custodianship-framework.provenance.md`, `governance-charter.provenance.md`, `governance-procedures-framework.provenance.md` and `amendment-framework.provenance.md` each now note where staged (unreviewed) material reuses their document's name, without asserting which should prevail.
+- `constitutional-staging/README.md` and root `README.md` updated: Purpose section now documents the doctrine/observation split as a general pattern for future submissions; index and naming-convention sections updated; status line now reads three staged items.
+- No constitutional judgement made: no term was defined, no reused name was consolidated, no progression was reconciled, no discovery was resolved.
+
 ## 0.34.0 — 2026-07-20
 Staged a second constitutional working-session submission (delivered in three parts, withheld from action until all three arrived): three items labelled "Constitutional Discovery" (Constitutional Flourishing, Constitutional Service, Constitutional Operation), a "Constitutional Architecture Observation" (a four-domain grouping of all terms introduced across both staged sessions, explicitly self-described as organisational rather than doctrinal), and a "Constitutional Development Observation" (a proposed next-phase focus, explicitly self-described as not itself doctrine). Same treatment and reasoning as the first session (v0.31.0): staged, not filed as a Discovery or Resolution.
 
