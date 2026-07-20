@@ -20,7 +20,9 @@ Two small editorial fixes found during a full audit pass: normalised two backlin
 - No constitutional judgement made, no constitutional document's wording changed.
 
 ## 0.27.0 — 2026-07-20
-Clarified `constitutional-discoveries/README.md`: Discovery 005's "first identified" date (v0.12.0) predates Discovery 004's (v0.23.0), since 005 was only catalogued today despite originating earlier in the integration sequence. Added a short note distinguishing the index's own append-only ordering (never renumbered) from the "First identified" column's separate, earlier timeline, so the apparent non-monotonic ordering doesn't read as an error. Editorial clarification only.
+Clarified `constitutional-discoveries/README.md`: Discovery 005's "first identified" date (v0.12.0) predates Discovery 004's (v0.23.0), since 005 was only catalogued today despite originating earlier in the integration sequence. Added a short note distinguishing the index's own append-only ordering (never renumbered) from the "First identified" column's separate, earlier timeline, so the apparent non-monotonic ordering doesn't read as an error.
+
+- No constitutional judgement made, no constitutional document's wording changed. Editorial clarification only.
 
 ## 0.26.0 — 2026-07-20
 Full audit of every `.provenance.md` file's "Unresolved/Remaining constitutional questions" section against the existing four Constitutional Discoveries, per the standing instruction to treat `constitutional-discoveries/` as canonical for future discoveries. Found one genuinely new, previously unindexed discovery, and three further reinforcing instances of an existing one.
