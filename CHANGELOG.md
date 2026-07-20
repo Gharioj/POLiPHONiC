@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.32.0 — 2026-07-20
+Added an "Architecture" section to the root `README.md`: a single diagram showing how `constitutional-staging/`, `constitutional-foundation/`, `constitutional-discoveries/` and `constitutional-resolutions/` relate as a pipeline. Each directory's own README already described its relationship to its neighbours individually; there was no single place showing the whole flow at once.
+
+- No constitutional judgement made, no constitutional document's wording changed. Purely a navigational addition describing existing, already-established structure.
+
 ## 0.31.0 — 2026-07-20
 Staged fourteen constitutional definitions, principles and progressions submitted in a working session today, per explicit instruction to integrate them. Filed in `constitutional-staging/`, not `constitutional-discoveries/` or `constitutional-resolutions/`: the material has no prior corpus source to cite (ruling out Discoveries, which are citations to gaps already visible in existing text), and has not been reviewed or adopted (ruling out Resolutions, which the instruction also explicitly excluded). Staging is this repository's own designated holding area for exactly this situation.
 
