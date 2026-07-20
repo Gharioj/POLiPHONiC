@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.36.0 — 2026-07-20
+Prepared the repository to receive a first complete constitutional draft ("POLiPHONiC Constitution — Working Draft 1"), per instruction to act as constitutional librarian and repository engineer ahead of its arrival. No draft content was supplied with the instruction, so this is repository preparation only — nothing was staged, integrated, resolved, or reconciled.
+
+- **Added** `constitutional-staging/constitutional-drafts/`: a new subdirectory of `constitutional-staging/`, with its own README and versioned index (`Draft | Staged | Status | Supersedes`), for complete constitutional drafts — as distinct from the individual working-session fragments already indexed directly in the parent directory. Reasoning for keeping this within `constitutional-staging/` rather than as a new top-level directory: the parent directory's own stated purpose already covers material of any size or completeness ("nothing reaches the Constitutional Foundation without a traceable origin"), and the repository has a standing precedent (v0.33.0) of extending staging's own structure ahead of need rather than adding new top-level categories. This is a repository-engineering decision, not a constitutional one, and is reversible if a future architect judges otherwise.
+- Naming convention established: `working-draft-<N>.md` + `working-draft-<N>.provenance.md`, built from the existing `PROVENANCE_TEMPLATE.md` with one addition — a draft's provenance record should state which earlier draft, if any, it supersedes. The new README explicitly instructs that a draft's provenance record must **not** assert how the draft relates to the already-integrated `constitutional-foundation/` corpus (replace, complement, consolidate, or require document-by-document reconciliation) — that determination is left open for a reviewer once an actual draft exists, not decided here.
+- `constitutional-staging/README.md` — added cross-references to the new subdirectory in its Purpose, Index and "Relationship to other structures" sections.
+- Root `README.md` — Status section notes the repository is now structurally prepared to receive Working Draft 1; Phase section adds a paragraph naming the open architectural question above explicitly, so it isn't lost between now and whenever a draft is actually supplied.
+- No constitutional judgement made: no draft was staged (none was provided), no term was defined, no existing document's wording changed, no discovery was resolved, and no claim was made about how a future complete draft will relate to the Foundation's existing 39-document structure.
+
 ## 0.35.0 — 2026-07-20
 Structural follow-through on the standing instructions to keep architectural observations separate from doctrine, maintain cross-references instead of consolidating reused names, and track undefined terms — without resolving, reconciling, or interpreting any of it.
 

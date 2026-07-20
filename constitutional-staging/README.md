@@ -8,6 +8,8 @@ Material lands here first, with its provenance recorded, so that nothing reaches
 
 Where submitted material distinguishes doctrine (definitions, principles) from organisational or process observations about itself, that distinction is preserved by staging them as separate files rather than merging them — see the 2026-07-20 items below for the pattern.
 
+A complete constitutional draft — a whole, self-contained candidate constitution, as opposed to a working-session fragment — is staged in [`constitutional-drafts/`](constitutional-drafts/README.md), a subdirectory with its own versioned index. See that subdirectory's README for why it is organised separately; the staging rule itself is unchanged.
+
 ## Provenance
 
 Every item staged here must be accompanied by a provenance record — see [`PROVENANCE_TEMPLATE.md`](PROVENANCE_TEMPLATE.md) — capturing at minimum:
@@ -30,8 +32,9 @@ Where one submission is split across multiple files (e.g. to separate doctrine f
 | [2026-07-20 — Constitutional Working Session (Part 2)](2026-07-20-constitutional-discoveries-part2.md) | 2026-07-20 | Staged — not reviewed |
 | [2026-07-20 — Architecture and Development Observations](2026-07-20-architecture-and-development-observations.md) | 2026-07-20 | Staged — not reviewed; self-described as organisational, not doctrinal |
 
-See also [`UNDEFINED-TERMS.md`](UNDEFINED-TERMS.md) — terms named in staged material with no definition of their own anywhere in this repository.
+See also [`UNDEFINED-TERMS.md`](UNDEFINED-TERMS.md) — terms named in staged material with no definition of their own anywhere in this repository — and [`constitutional-drafts/`](constitutional-drafts/README.md), the versioned index for complete constitutional drafts (currently empty; no draft has been staged yet).
 
 ## Relationship to other structures
 
 - [`constitutional-foundation/`](../constitutional-foundation/README.md) — where staged material moves once reviewed and integrated. Six Foundation provenance records (Authorship, Rights, Custodianship, Governance Charter, Governance Procedures, Amendment) carry a reciprocal note where staged material reuses their names.
+- [`constitutional-drafts/`](constitutional-drafts/README.md) — this directory's own subdirectory for complete constitutional drafts, kept separate from the dated fragments indexed above because a complete draft is versioned and internally complete rather than a one-off dated submission.
