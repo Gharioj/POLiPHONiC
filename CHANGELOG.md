@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.31.0 — 2026-07-20
+Staged fourteen constitutional definitions, principles and progressions submitted in a working session today, per explicit instruction to integrate them. Filed in `constitutional-staging/`, not `constitutional-discoveries/` or `constitutional-resolutions/`: the material has no prior corpus source to cite (ruling out Discoveries, which are citations to gaps already visible in existing text), and has not been reviewed or adopted (ruling out Resolutions, which the instruction also explicitly excluded). Staging is this repository's own designated holding area for exactly this situation.
+
+- `constitutional-staging/2026-07-20-constitutional-working-session.md` — the fourteen items, verbatim, reformatted only into Markdown headings.
+- `constitutional-staging/2026-07-20-constitutional-working-session.provenance.md` — provenance per the existing template, plus five specific points flagged for a future reviewer: overlap with open Discovery 001 (rights vs. ownership) via §4/§10; overlap with open Discovery 003 (undefined governance authority) via §5/§11/§12; independently-worded redefinitions of terms already integrated in the Foundation (Authorship, Rights, Custodianship Frameworks); wholly new terms with no Foundation counterpart; and the fact that all fourteen items form one interdependent system, not fourteen independent ones.
+- `constitutional-discoveries/001-rights-vs-ownership-undefined.md` and `003-undefined-governance-authority-and-process.md` — each given a one-line dated note pointing to the new staged material, without altering either discovery's existing text or "open" status.
+- `constitutional-staging/README.md` and root `README.md` updated to reflect the staged item.
+- No constitutional judgement made: nothing was adopted, resolved, reconciled, or rewritten. No Constitutional Resolution was created.
+
 ## 0.30.0 — 2026-07-20
 Closed a navigation dead-end: none of the 5 discovery records or the 1 resolution record linked back to their own directory index, so a reader arriving via a backlink from `constitutional-foundation/` had no way back up. Added a `[← Constitutional Discoveries](README.md)` / `[← Constitutional Resolutions](README.md)` footer to all 6 files.
 

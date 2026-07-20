@@ -25,6 +25,8 @@ Multiple documents in the Constitutional Foundation assert that governance autho
 
 Open. Naming who holds governance authority, and by what process it is exercised, is a constitutional judgement — it is not made here.
 
+*Note, 2026-07-20:* newly staged material touches this question in principle terms without naming a concrete mechanism — see [`constitutional-staging/2026-07-20-constitutional-working-session.md`](../constitutional-staging/2026-07-20-constitutional-working-session.md), §5, §11 and §12. It has not been reviewed or adopted as a Resolution, so this discovery remains open.
+
 ---
 
 [← Constitutional Discoveries](README.md)

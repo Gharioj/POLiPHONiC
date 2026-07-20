@@ -16,7 +16,7 @@ Every item staged here must be accompanied by a provenance record — see [`PROV
 
 ## Current status
 
-Empty. No constitutional documents have been staged yet.
+One item staged: [`2026-07-20-constitutional-working-session.md`](2026-07-20-constitutional-working-session.md) — fourteen constitutional definitions, principles and progressions submitted in a working session on 2026-07-20. See its [provenance record](2026-07-20-constitutional-working-session.provenance.md) for origin and a list of points a reviewer will need to address before any integration. Not yet reviewed, reconciled, or integrated into the Foundation.
 
 ## Relationship to other structures
 
