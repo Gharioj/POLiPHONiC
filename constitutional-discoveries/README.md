@@ -23,4 +23,5 @@ Constitutional discoveries were, until now, recorded only inline — inside indi
 ## Relationship to other structures
 
 - [`constitutional-foundation/`](../constitutional-foundation/README.md) — the integrated corpus in which each of these discoveries was originally noticed, inside the relevant document's `.provenance.md` companion.
+- [`constitution/`](../constitution/README.md) — the operative constitutional draft (Working Draft 1, integrated 2026-07-20). Discoveries 001 and 003 each carry a dated note on where the draft speaks to them; in both cases the underlying question remains open, not resolved by integration.
 - [`constitutional-resolutions/`](../constitutional-resolutions/README.md) — where a discovery goes once it has been settled by deliberate constitutional judgement. No discovery below has yet been resolved.

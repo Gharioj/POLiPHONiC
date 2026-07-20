@@ -1,10 +1,10 @@
 # Constitutional Foundation
 
-The primary, integrated knowledge structure for POLiPHONiC's constitutional record.
+The constitutional research and discovery record for POLiPHONiC — the corpus of source material the operative Constitution is drawn from and departs from, preserved in full and unmodified.
 
 Material is added here only after it has been reviewed for integration — not before. Each integrated document is accompanied by a `.provenance.md` companion file recording its source and the constitutional judgements made while integrating it.
 
-All 39 documents named anywhere in the corpus's own "Constitutional Provenance" chain are now integrated.
+All 39 documents named anywhere in the corpus's own "Constitutional Provenance" chain are now integrated. **As of the integration of [Working Draft 1](../constitution/README.md) (2026-07-20), this Foundation is understood as the constitutional research and discovery record, not the operative constitutional text** — see "The Constitution" below. Nothing in this change modifies, moves, or removes any document below; every one of the 39 remains exactly as integrated.
 
 ## Index
 
@@ -49,6 +49,10 @@ All 39 documents named anywhere in the corpus's own "Constitutional Provenance" 
 | [Constitutional Terminology Framework](terminology-framework.md) | [terminology-framework.provenance.md](terminology-framework.provenance.md) |
 | [Constitutional Implementation Framework](implementation-framework.md) | [implementation-framework.provenance.md](implementation-framework.provenance.md) |
 | [Constitutional Interpretation Framework](interpretation-framework.md) | [interpretation-framework.provenance.md](interpretation-framework.provenance.md) |
+
+## The Constitution
+
+[`constitution/`](../constitution/README.md) holds the operative constitutional text — currently Working Draft 1, integrated 2026-07-20. This Foundation is what that draft was assembled from and departs from; it is not superseded, and remains the permanent record of the corpus's own research and discovery history regardless of how the operative draft develops.
 
 ## Constitutional Staging
 

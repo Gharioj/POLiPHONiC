@@ -30,6 +30,8 @@ Open. No Constitutional Resolution addresses this discovery. Settling what "owne
 
 *Note, 2026-07-20 (part 2):* a second staged item groups Rights and Ownership together without altering either — see [`constitutional-staging/2026-07-20-constitutional-discoveries-part2.md`](../constitutional-staging/2026-07-20-constitutional-discoveries-part2.md), "Constitutional Architecture Observation," domain IV. Still not reviewed or adopted.
 
+*Note, 2026-07-20 (Working Draft 1):* the first integrated constitutional draft speaks to this question directly — Article 36, "Constitutional Ownership," in [`constitution/working-draft-1.md`](../constitution/working-draft-1.md), states that ownership "exists within the constitutional community rather than above it" and must be exercised consistently with constitutional purpose. As with every source above, it does not define "ownership" or state how it differs from a constitutional "right." This is now the operative constitutional draft rather than staged material, but the question this discovery records remains open; nothing here resolves it.
+
 ---
 
 [← Constitutional Discoveries](README.md)

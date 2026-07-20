@@ -29,6 +29,8 @@ Open. Naming who holds governance authority, and by what process it is exercised
 
 *Note, 2026-07-20 (part 2):* a second staged item ("Constitutional Service," "Constitutional Operation," and the "Constitutional Architecture Observation") again describes governance's purpose and effect without naming a concrete body or process — see [`constitutional-staging/2026-07-20-constitutional-discoveries-part2.md`](../constitutional-staging/2026-07-20-constitutional-discoveries-part2.md). Still not reviewed or adopted.
 
+*Note, 2026-07-20 (Working Draft 1):* the first integrated constitutional draft speaks to this question at length — Articles 66–72 (Constitutional Amendment) and 59–62 (Constitutional Review) in [`constitution/working-draft-1.md`](../constitution/working-draft-1.md) — but, like every source cited above, describe proposal, consideration, adoption, review and independence only in principled terms, without naming a concrete governance body, proposer, ratifying entity, or reviewing panel. This is now the operative constitutional draft rather than staged material, but the gap this discovery records remains open; nothing here resolves it.
+
 ---
 
 [← Constitutional Discoveries](README.md)

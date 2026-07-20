@@ -17,25 +17,26 @@ This is an organisational distinction only. It does not exempt anything staged h
 
 Each staged draft is a `working-draft-<N>.md` file paired with a `working-draft-<N>.provenance.md` file built from [`../PROVENANCE_TEMPLATE.md`](../PROVENANCE_TEMPLATE.md). In addition to that template's required fields, a draft's provenance record should state which earlier draft, if any, it supersedes.
 
-A draft's provenance record should **not** assert how the draft relates to the already-integrated Constitutional Foundation — whether it replaces, complements, consolidates, or must be reconciled document-by-document with the 39 documents already integrated there is an open architectural question for a reviewer to settle at integration time, not something to be decided by whoever stages it.
+A draft's provenance record should **not** assert how the draft relates to the already-integrated Constitutional Foundation beyond what has been explicitly settled by instruction — see "Where an integrated draft goes" below for what was settled for Working Draft 1 specifically. Anything beyond that (e.g. whether particular Foundation documents are superseded in substance by particular articles) remains for a reviewer, not for whoever stages a future draft.
 
 ## Index
 
 | Draft | Staged | Status | Supersedes |
 |---|---|---|---|
-| [Working Draft 1](working-draft-1.md) | not yet — scaffolded 2026-07-20 | **Scaffolded.** Placeholder file and provenance record exist; no constitutional content has been supplied. | none |
+| [Working Draft 1](working-draft-1.md) | 2026-07-20 | **Integrated.** Moved to [`constitution/working-draft-1.md`](../../constitution/working-draft-1.md); this entry is a historical stub, not the current text. | none |
 
-**Status vocabulary used in this index**, in the order an entry is expected to pass through them: *Scaffolded* (location, filename and metadata reserved; no content) → *Staged* (manuscript received and transcribed verbatim, provenance recorded — the same meaning "Staged" carries in the parent directory's index) → *Reviewed* / *Integrated* (moved into [`constitutional-foundation/`](../../constitutional-foundation/README.md), a distinct later act like every other integration recorded in `CHANGELOG.md`).
+**Status vocabulary used in this index**, in the order an entry is expected to pass through them: *Scaffolded* (location, filename and metadata reserved; no content) → *Staged* (manuscript received and transcribed verbatim, provenance recorded) → *Integrated* (moved to [`constitution/`](../../constitution/README.md), the authoritative-draft location — not `constitutional-foundation/`, which holds the research and discovery record instead; see below).
 
-## Receiving the manuscript
+## Where an integrated draft goes
 
-[`working-draft-1.md`](working-draft-1.md) and [`working-draft-1.provenance.md`](working-draft-1.provenance.md) already exist at their permanent filenames and location. When "POLiPHONiC Constitution — Working Draft 1" is actually delivered, it should be **written into the existing placeholder file in place** — replacing the placeholder notice with a verbatim transcription — and the provenance file replaced with a real record per the template in its own "When the manuscript is supplied" section. No new file, rename, or further restructuring of this directory should be needed for Working Draft 1 itself; only the Index row above and this section's status need updating, plus the usual `CHANGELOG.md` entry.
+Working Draft 1 established the pattern: once a complete draft's manuscript is fully received here and its structural integrity verified, it is moved to [`constitution/`](../../constitution/README.md) — a location distinct from `constitutional-foundation/` — and this directory keeps a stub pointing to its new location, not a duplicate copy. This was settled by explicit instruction accompanying Working Draft 1's integration: `constitutional-foundation/` is "the constitutional research and discovery record," preserved as-is; `constitution/` holds the operative draft "future constitutional revisions should evolve from." A future Working Draft 2 is expected to follow the same path.
 
 ## Relationship to other structures
 
 - [`constitutional-staging/`](../README.md) — the parent directory. This subdirectory follows the same staging → review → integration rule; it is organised separately only because of the versioned, complete nature of what it holds.
-- [`constitutional-foundation/`](../../constitutional-foundation/README.md) — where a draft moves, in whole or in part, only once reviewed. Nothing staged here has been reviewed. How a complete draft's material maps onto a Foundation currently organised as 39 separate framework documents is not decided by this directory's existence.
-- [`constitutional-discoveries/`](../../constitutional-discoveries/README.md) — a complete draft may speak to one or more open discoveries, the way earlier staged fragments have. Any such connection should be noted in the draft's provenance record, per the pattern already used for the two working sessions staged in the parent directory, without altering the discovery's own text or status.
+- [`constitution/`](../../constitution/README.md) — where a fully-received, verified draft is moved on integration. Working Draft 1 no longer lives here; see its stub file for the pointer.
+- [`constitutional-foundation/`](../../constitutional-foundation/README.md) — the constitutional research and discovery record a draft is assembled from. Not the destination for an integrated draft; not altered by any integration performed here.
+- [`constitutional-discoveries/`](../../constitutional-discoveries/README.md) — a complete draft may speak to one or more open discoveries, the way earlier staged fragments have. Any such connection should be noted in the draft's provenance record, per the pattern already used for the two working sessions staged in the parent directory and for Working Draft 1, without altering the discovery's own text or status.
 
 ---
 
