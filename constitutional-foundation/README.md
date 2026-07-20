@@ -53,3 +53,7 @@ All 39 documents named anywhere in the corpus's own "Constitutional Provenance" 
 ## Constitutional Resolutions
 
 Rulings recorded directly rather than integrated from source material are tracked separately in [`constitutional-resolutions/`](../constitutional-resolutions/README.md).
+
+## Constitutional Discoveries
+
+Questions, tensions and anomalies noticed while integrating the documents above — e.g. the rights-vs-ownership distinction, the undefined governance body/process, and two source documents found incomplete — are indexed in chronological order, with citations back to the relevant `.provenance.md` file below, in [`constitutional-discoveries/`](../constitutional-discoveries/README.md).

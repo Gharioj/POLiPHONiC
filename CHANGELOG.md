@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.24.0 — 2026-07-20
+Added `constitutional-discoveries/` — a chronological index of constitutional questions, tensions and anomalies already noticed and recorded (in `.provenance.md` files and this Changelog) during the integration sequence, but never before collected in one place. Repository organisation only: no constitutional text was rewritten, no constitutional question was resolved, and no document in `constitutional-foundation/` or `constitutional-resolutions/` was modified.
+
+- `constitutional-discoveries/README.md` and four discovery records, each citing and linking back to where the discovery was first made: rights vs. ownership (001, first identified integrating the Creator Constitution, v0.2.0), the Technical Architecture source duplication (002, v0.4.0), the undefined governance authority and process (003, first identified integrating the Governance Charter, v0.5.0), and the two source documents found incomplete (004, v0.23.0).
+- Root `README.md`, `constitutional-foundation/README.md` and `constitutional-resolutions/README.md` updated to cross-reference the new directory.
+- No constitutional judgement made: all four discoveries remain open.
+
 ## 0.23.0 — 2026-07-18
 Integrated the Constitutional Transparency (32), Knowledge (33), Publication (34), Terminology (35), Implementation (37) and Interpretation (38) Frameworks, completing the entire 39-document reconstructed sequence.
 

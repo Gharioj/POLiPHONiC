@@ -2,6 +2,8 @@
 
 Constitutional rulings recorded directly, rather than integrated from external source material. Each resolution is linked to the [Constitutional Foundation](../constitutional-foundation/README.md) but does not modify any document within it.
 
+A resolution may, but need not, settle a question first raised in [`constitutional-discoveries/`](../constitutional-discoveries/README.md). None currently does — Resolution 001 was issued directly rather than in response to a recorded discovery.
+
 ## Index
 
 | Resolution | Recorded |
