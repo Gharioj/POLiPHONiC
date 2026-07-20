@@ -18,9 +18,11 @@
   --copper: #c9814b;
   --on-copper: #241505;
 
-  /* Cards — dark charcoal with a violet tint, a shade lighter than the page */
-  --card-bg: #1c1928;
-  --card-border: #332e44;
+  /* Cards — dark charcoal with a violet tint, a shade lighter than the page.
+     Separation comes from brightness + soft shadow, not a strong border. */
+  --card-bg: #231f30;
+  --card-border: rgba(233, 227, 245, 0.07);
+  --card-shadow: 0 1px 2px rgba(0, 0, 0, 0.22), 0 6px 18px rgba(0, 0, 0, 0.24);
 
   --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 12px 28px rgba(0, 0, 0, 0.35);
   --max-width: 780px;
@@ -228,8 +230,8 @@ blockquote {
   color: var(--text);
   background: var(--card-bg);
   height: 100%;
-  box-shadow: var(--shadow);
-  transition: transform 0.15s ease, border-color 0.15s ease;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease;
 }
 
 .card:hover {
@@ -266,8 +268,8 @@ blockquote {
   background: var(--card-bg);
   padding: 1.1rem 1.3rem;
   margin: 0;
-  box-shadow: var(--shadow);
-  transition: border-color 0.15s ease, transform 0.15s ease;
+  box-shadow: var(--card-shadow);
+  transition: border-color 0.15s ease, transform 0.15s ease, background 0.15s ease;
 }
 
 .doc-list li:hover {
@@ -440,7 +442,7 @@ blockquote {
   border: 1px solid var(--card-border);
   border-radius: 10px;
   overflow: hidden;
-  box-shadow: var(--shadow);
+  box-shadow: var(--card-shadow);
   background: var(--card-bg);
 }
 
