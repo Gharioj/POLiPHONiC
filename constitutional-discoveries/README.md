@@ -1,6 +1,8 @@
 # Constitutional Discoveries
 
-Constitutional questions, tensions and anomalies noticed as they emerged during constitutional development — recorded in chronological order, as they were found.
+Constitutional questions, tensions and anomalies noticed as they emerged during constitutional development — recorded in the order they were catalogued into this directory.
+
+**Two dates, not one.** An entry's number reflects when it was *added to this index* — entries are never renumbered or reordered once recorded, so this log only ever grows. Its "First identified" column reflects a different, earlier fact: the version/date at which the discovery first appeared in the Constitutional Foundation's own provenance records, which this index may only catch up to later (see 005, first identified at v0.12.0 but not catalogued here until after 004). Treat the number as the index's own history; treat "First identified" as the corpus's.
 
 A discovery is not a ruling. Recording a discovery here makes no constitutional judgement and settles nothing; it only establishes, with a citation trail, *that* something was noticed, *when*, and *where* it was already documented. Discoveries are resolved, if at all, by a [Constitutional Resolution](../constitutional-resolutions/README.md) — a distinct, later, and deliberate act.
 
