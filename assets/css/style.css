@@ -8,14 +8,14 @@
   --text: #e8e5f1;
   --text-muted: #a39db4;
 
-  /* Primary accent — deep emerald */
-  --emerald: #4fbe93;
-  --emerald-fill: #1f6e4f;
+  /* Primary accent — deep, jewel-toned emerald */
+  --emerald: #3fae82;
+  --emerald-fill: #1b5c43;
   --on-emerald: #ffffff;
 
-  /* Secondary accent — muted burnt amber/copper: active navigation,
+  /* Secondary accent — enriched burnt amber/copper: active navigation,
      section headings, hover states, quiet highlights */
-  --copper: #c9814b;
+  --copper: #c17a44;
   --on-copper: #241505;
 
   /* Cards — dark charcoal with a violet tint, a shade lighter than the page.
@@ -172,7 +172,7 @@ h1, h2, h3, h4 {
   color: var(--text);
 }
 
-h1 { font-size: 2.4rem; margin: 0 0 0.6rem; }
+h1 { font-size: 2.4rem; margin: 0 0 0.6rem; color: var(--copper); }
 
 /* Section headings carry the secondary accent, per the visual identity brief */
 h2 {
@@ -425,7 +425,7 @@ blockquote {
 .site-footer-brand {
   font-family: "Cormorant Garamond", Georgia, serif;
   font-weight: 600;
-  color: var(--text);
+  color: var(--copper);
   font-size: 1.05rem;
 }
 

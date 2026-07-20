@@ -6,7 +6,7 @@ permalink: /
 
 # POLiPHONiC
 
-<p class="tagline">A constitutional infrastructure for creativity.</p>
+<p class="tagline">A constitutional infrastructure for conscious, creative expression.</p>
 
 POLiPHONiC exists to establish, preserve and continually strengthen the constitutional space within which conscious creative expression may flourish — recognising, nurturing and carrying that expression from creation to legacy. This website is the public documentation portal for its Constitution, its constitutional research and discovery record, and its manifesto.
 
