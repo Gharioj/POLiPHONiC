@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}">
+      <img class="site-brand-mark" src="{{ '/brand/wordmark/logo-black-on-white.png' | relative_url }}" alt="" width="28" height="28">
+      <span>POLiPHONiC</span>
+    </a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="site-nav">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="site-nav" class="site-nav">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="is-active"{% endif %}>Home</a>
+      <a href="{{ '/constitution/' | relative_url }}"{% if page.url contains '/constitution/' %} class="is-active"{% endif %}>Constitution</a>
+      <a href="{{ '/framework/' | relative_url }}"{% if page.url contains '/framework/' %} class="is-active"{% endif %}>Framework</a>
+      <a href="{{ '/discoveries/' | relative_url }}"{% if page.url contains '/discoveries/' or page.url contains '/resolutions/' %} class="is-active"{% endif %}>Discoveries</a>
+      <a href="{{ '/manifesto/' | relative_url }}"{% if page.url contains '/manifesto/' %} class="is-active"{% endif %}>Manifesto</a>
+      <a href="{{ '/downloads/' | relative_url }}"{% if page.url == '/downloads/' %} class="is-active"{% endif %}>Downloads</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} class="is-active"{% endif %}>About</a>
+    </nav>
+  </div>
+</header>

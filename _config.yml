@@ -1,0 +1,26 @@
+title: POLiPHONiC
+description: >-
+  Official public documentation website for POLiPHONiC — a constitutional
+  infrastructure for creativity, presented as it stands in the authoritative
+  GitHub repository.
+lang: en
+baseurl: "/POLiPHONiC"
+repository: Gharioj/POLiPHONiC
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+
+exclude:
+  - constitution
+  - constitutional-foundation
+  - constitutional-discoveries
+  - constitutional-resolutions
+  - constitutional-staging
+  - README.md
+  - CHANGELOG.md
+  - "*.gitattributes"
+  - "*.gitignore"
