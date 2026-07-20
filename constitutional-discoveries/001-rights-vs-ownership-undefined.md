@@ -25,3 +25,7 @@ The corpus repeatedly asserts creative "rights" while explicitly disclaiming "ow
 ## Status
 
 Open. No Constitutional Resolution addresses this discovery. Settling what "ownership" means, and how it relates to a constitutional "right," is a constitutional judgement — it is not made here.
+
+---
+
+[← Constitutional Discoveries](README.md)

@@ -20,3 +20,7 @@ Two source documents in the named 39-document corpus were found genuinely incomp
 ## Status
 
 Open. If corrected or complete versions of either source document are located, both integrations should be revisited and reconciled against them, per each provenance record's own note. Whether the missing content should ever be reconstructed, and by whom, is a constitutional (and source-custody) judgement, not made here.
+
+---
+
+[← Constitutional Discoveries](README.md)

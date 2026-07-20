@@ -24,3 +24,7 @@ Multiple documents in the Constitutional Foundation assert that governance autho
 ## Status
 
 Open. Naming who holds governance authority, and by what process it is exercised, is a constitutional judgement — it is not made here.
+
+---
+
+[← Constitutional Discoveries](README.md)

@@ -21,3 +21,7 @@ status: recorded
 ## Relationship to the Constitutional Foundation
 
 This resolution is linked to, but distinct from, the [Constitutional Foundation](../constitutional-foundation/README.md), which holds documents integrated from external source material (Creator Constitution, Executive Briefing, Technical Architecture, Governance Charter, Founding Partners Charter). No document in the Foundation has been modified to reflect this resolution.
+
+---
+
+[← Constitutional Resolutions](README.md)

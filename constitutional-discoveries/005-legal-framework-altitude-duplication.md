@@ -20,3 +20,7 @@ The Legal & Constitutional Framework's §4 ("Constitutional Rights Framework") a
 ## Status
 
 Open. Whether this reflects intentional editorial layering across the corpus (a short legal-facing restatement alongside a full constitutional framework) or an unreconciled duplication of scope is an editorial-or-constitutional judgement, not made here.
+
+---
+
+[← Constitutional Discoveries](README.md)

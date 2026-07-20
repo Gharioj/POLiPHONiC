@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.30.0 — 2026-07-20
+Closed a navigation dead-end: none of the 5 discovery records or the 1 resolution record linked back to their own directory index, so a reader arriving via a backlink from `constitutional-foundation/` had no way back up. Added a `[← Constitutional Discoveries](README.md)` / `[← Constitutional Resolutions](README.md)` footer to all 6 files.
+
+- Verified every markdown link in the repository still resolves.
+- No constitutional judgement made, no constitutional document's wording changed. (The 39 documents and provenance files in `constitutional-foundation/` were not touched by this pass — the `.md` documents are constitutional text and out of scope, and the `.provenance.md` files' existing lack of a same backlink is a separate, larger, pre-existing pattern not addressed here.)
+
 ## 0.29.0 — 2026-07-20
 Navigation symmetry pass across the four top-level directory READMEs. `constitutional-discoveries/` had a "Relationship to other structures" section; the other three didn't, and `constitutional-foundation/README.md` linked out to Resolutions and Discoveries but never back to Staging, despite Staging's whole purpose being to feed it.
 

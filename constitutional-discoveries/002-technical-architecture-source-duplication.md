@@ -21,3 +21,7 @@ The Technical Architecture's source `.docx` contains sections 5–7 twice, in tw
 ## Status
 
 Open. This is primarily an editorial/source-fidelity question (whether and how to reconcile the source file) rather than a question of constitutional meaning — but the decision belongs to whoever holds authority over the source corpus, not to this reorganisation.
+
+---
+
+[← Constitutional Discoveries](README.md)
