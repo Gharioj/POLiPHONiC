@@ -17,3 +17,7 @@ Every item staged here must be accompanied by a provenance record — see [`PROV
 ## Current status
 
 Empty. No constitutional documents have been staged yet.
+
+## Relationship to other structures
+
+- [`constitutional-foundation/`](../constitutional-foundation/README.md) — where staged material moves once reviewed and integrated.

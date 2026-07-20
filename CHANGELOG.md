@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.29.0 — 2026-07-20
+Navigation symmetry pass across the four top-level directory READMEs. `constitutional-discoveries/` had a "Relationship to other structures" section; the other three didn't, and `constitutional-foundation/README.md` linked out to Resolutions and Discoveries but never back to Staging, despite Staging's whole purpose being to feed it.
+
+- `constitutional-foundation/README.md` — added a "Constitutional Staging" section; replaced the Discoveries section's inline example list (which would go stale every time a new discovery is added) with a pointer to the Discoveries index itself.
+- `constitutional-resolutions/README.md` and `constitutional-staging/README.md` — added matching "Relationship to other structures" sections.
+- Verified every markdown link in the repository (not a sample) resolves correctly, before and after.
+- No constitutional judgement made, no constitutional document's wording changed.
+
 ## 0.28.0 — 2026-07-20
 Two small editorial fixes found during a full audit pass: normalised two backlink sentences (`economic-participation-framework.provenance.md`, `dispute-resolution-framework.provenance.md`) to the same "Indexed as" phrasing used by the other fifteen; and added a factual-currency note to `creator-constitution.provenance.md`'s first unresolved question, which named four dependency documents as unintegrated — they have in fact all been integrated since v0.6.0. The note states this fact only; it explicitly does not decide whether it resolves the underlying interim-authority question, which remains open.
 

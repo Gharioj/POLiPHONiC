@@ -9,3 +9,8 @@ A resolution may, but need not, settle a question first raised in [`constitution
 | Resolution | Recorded |
 |---|---|
 | [001 — The Constitution Founded on Enduring Principles](001-constitution-founded-on-enduring-principles.md) | 2026-07-18 |
+
+## Relationship to other structures
+
+- [`constitutional-foundation/`](../constitutional-foundation/README.md) — the integrated corpus each resolution is linked to but does not modify.
+- [`constitutional-discoveries/`](../constitutional-discoveries/README.md) — chronologically-indexed questions and tensions, any one of which a future resolution may settle. None currently does.

@@ -50,10 +50,14 @@ All 39 documents named anywhere in the corpus's own "Constitutional Provenance" 
 | [Constitutional Implementation Framework](implementation-framework.md) | [implementation-framework.provenance.md](implementation-framework.provenance.md) |
 | [Constitutional Interpretation Framework](interpretation-framework.md) | [interpretation-framework.provenance.md](interpretation-framework.provenance.md) |
 
+## Constitutional Staging
+
+Material destined for this Foundation is held first in [`constitutional-staging/`](../constitutional-staging/README.md), with its provenance recorded, before it is reviewed and integrated above.
+
 ## Constitutional Resolutions
 
 Rulings recorded directly rather than integrated from source material are tracked separately in [`constitutional-resolutions/`](../constitutional-resolutions/README.md).
 
 ## Constitutional Discoveries
 
-Questions, tensions and anomalies noticed while integrating the documents above — e.g. the rights-vs-ownership distinction, the undefined governance body/process, and two source documents found incomplete — are indexed in chronological order, with citations back to the relevant `.provenance.md` file below, in [`constitutional-discoveries/`](../constitutional-discoveries/README.md).
+Questions, tensions and anomalies noticed while integrating the documents above are indexed in chronological order in [`constitutional-discoveries/`](../constitutional-discoveries/README.md), each with citations back to the relevant `.provenance.md` file above. See that index for the current list.
