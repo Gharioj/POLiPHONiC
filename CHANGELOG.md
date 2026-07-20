@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.33.0 — 2026-07-20
+`constitutional-staging/` was the only one of the four top-level directories without an index table (it had a prose "Current status" paragraph instead), and had no documented naming convention even though it will now accumulate more entries over time. Fixed both ahead of need, since more material is expected to be staged before it's reviewed.
+
+- `constitutional-staging/README.md` — replaced "Current status" with an "Index" table matching the style already used by `constitutional-discoveries/` and `constitutional-resolutions/`; added a "Naming convention" section documenting the `YYYY-MM-DD-<slug>.md` + `.provenance.md` pattern already in use.
+- No constitutional judgement made, no constitutional document's wording changed.
+
 ## 0.32.0 — 2026-07-20
 Added an "Architecture" section to the root `README.md`: a single diagram showing how `constitutional-staging/`, `constitutional-foundation/`, `constitutional-discoveries/` and `constitutional-resolutions/` relate as a pipeline. Each directory's own README already described its relationship to its neighbours individually; there was no single place showing the whole flow at once.
 

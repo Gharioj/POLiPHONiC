@@ -14,9 +14,15 @@ Every item staged here must be accompanied by a provenance record — see [`PROV
 - Who or what introduced it
 - Any notes on its state (draft, reviewed, translated, etc.)
 
-## Current status
+## Naming convention
 
-One item staged: [`2026-07-20-constitutional-working-session.md`](2026-07-20-constitutional-working-session.md) — fourteen constitutional definitions, principles and progressions submitted in a working session on 2026-07-20. See its [provenance record](2026-07-20-constitutional-working-session.provenance.md) for origin and a list of points a reviewer will need to address before any integration. Not yet reviewed, reconciled, or integrated into the Foundation.
+Each staged item is a `YYYY-MM-DD-<slug>.md` file paired with a `YYYY-MM-DD-<slug>.provenance.md` file built from [`PROVENANCE_TEMPLATE.md`](PROVENANCE_TEMPLATE.md). The date is the date staged, not the date of any earlier origin. Where more than one item is staged on the same date, append a distinguishing suffix to the slug rather than reusing it.
+
+## Index
+
+| Item | Staged | Status |
+|---|---|---|
+| [2026-07-20 — Constitutional Working Session](2026-07-20-constitutional-working-session.md) | 2026-07-20 | Staged — not reviewed |
 
 ## Relationship to other structures
 
