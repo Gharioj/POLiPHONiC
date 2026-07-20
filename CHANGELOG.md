@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.26.0 — 2026-07-20
+Full audit of every `.provenance.md` file's "Unresolved/Remaining constitutional questions" section against the existing four Constitutional Discoveries, per the standing instruction to treat `constitutional-discoveries/` as canonical for future discoveries. Found one genuinely new, previously unindexed discovery, and three further reinforcing instances of an existing one.
+
+- Added `constitutional-discoveries/005-legal-framework-altitude-duplication.md`: the Legal & Constitutional Framework's §4/§7 cover the same ground as the dedicated Rights and Dispute Resolution Frameworks at a shorter altitude — flagged in its provenance record (v0.12.0) as an undecided question (intentional layering vs. unreconciled duplication) and never indexed until now.
+- Backlinked `legal-constitutional-framework.provenance.md` to Discovery 005.
+- Backlinked three further provenance files to Discovery 003 (undefined governance authority and process), each of which had already noted an instance of the same gap without a cross-reference: `assurance-framework.provenance.md`, `operations-framework.provenance.md`, `technical-implementation-specification.provenance.md`.
+- `constitutional-discoveries/README.md` and root `README.md` updated: five discoveries now indexed.
+- Considered and deliberately did not index the Terminology Framework's "no authoritative glossary" observation as a new discovery: its own provenance record explicitly frames it as "not a new category of gap," the same principle-without-mechanism pattern already covered by Discovery 003, applied to a different domain — respecting that existing editorial judgement rather than overriding it.
+- No constitutional judgement made: nothing was resolved, no constitutional document's wording was touched.
+
 ## 0.25.0 — 2026-07-20
 Backlinked each `.provenance.md` file in `constitutional-foundation/` to the Constitutional Discovery record(s) it originally fed, completing the cross-reference in both directions (discoveries already linked to provenance; provenance now links back). Editorial/structural only: the substance of each provenance file's own commentary was left untouched, only a citation was appended.
 

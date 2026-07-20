@@ -20,4 +20,4 @@ Structure preserved as authored (seven sections, introduction, closing statement
 
 ## Remaining constitutional questions
 
-None new. §4 ("Constitutional Audit") again presumes independent reviewers/auditors without naming who performs this role — consistent with, not a new instance of, the already-recorded governance-body gap.
+None new. §4 ("Constitutional Audit") again presumes independent reviewers/auditors without naming who performs this role — consistent with, not a new instance of, the already-recorded governance-body gap. Indexed as [Constitutional Discovery 003](../constitutional-discoveries/003-undefined-governance-authority-and-process.md).

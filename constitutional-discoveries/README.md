@@ -16,6 +16,7 @@ Constitutional discoveries were, until now, recorded only inline — inside indi
 | [002](002-technical-architecture-source-duplication.md) | Technical Architecture source document contains a duplicated block (sections 5–7) | v0.4.0 — Technical Architecture | Open |
 | [003](003-undefined-governance-authority-and-process.md) | No governance body, decision-making entity, amendment procedure, dispute-resolution mechanism, or custodial succession procedure is named anywhere in the Foundation | v0.5.0 — Governance Charter | Open |
 | [004](004-source-documents-found-incomplete.md) | Two source documents (Knowledge Framework, Interpretation Framework) found genuinely incomplete, suggesting a defect pattern in the underlying `.docx` corpus | v0.23.0 — Knowledge & Interpretation Frameworks | Open |
+| [005](005-legal-framework-altitude-duplication.md) | Legal & Constitutional Framework covers the same ground as the dedicated Rights and Dispute Resolution Frameworks, at a shorter altitude — intentional layering or unreconciled duplication? | v0.12.0 — Legal & Constitutional Framework | Open |
 
 ## Relationship to other structures
 

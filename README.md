@@ -2,7 +2,7 @@
 
 ## Status
 
-All 39 documents named in the corpus's own "Constitutional Provenance" chain are integrated into `constitutional-foundation/`. One Constitutional Resolution has been recorded. Four Constitutional Discoveries are open. See `CHANGELOG.md` for the full integration history.
+All 39 documents named in the corpus's own "Constitutional Provenance" chain are integrated into `constitutional-foundation/`. One Constitutional Resolution has been recorded. Five Constitutional Discoveries are open. See `CHANGELOG.md` for the full integration history.
 
 ## Structure
 
@@ -13,4 +13,4 @@ All 39 documents named in the corpus's own "Constitutional Provenance" chain are
 
 ## Phase
 
-Constitutional Knowledge Integration of the named corpus is complete. Several unresolved constitutional questions remain — now indexed chronologically in [`constitutional-discoveries/`](constitutional-discoveries/README.md) (rights vs. ownership, the undefined governance body/process, a source duplication, and two source documents found genuinely incomplete) — these await a Constitutional Resolution or further constitutional judgement, not further mechanical integration.
+Constitutional Knowledge Integration of the named corpus is complete. Several unresolved constitutional questions remain — now indexed chronologically in [`constitutional-discoveries/`](constitutional-discoveries/README.md) (rights vs. ownership, the undefined governance body/process, a source duplication, two source documents found genuinely incomplete, and an unreconciled altitude duplication between the Legal & Constitutional Framework and two dedicated frameworks) — these await a Constitutional Resolution or further constitutional judgement, not further mechanical integration.

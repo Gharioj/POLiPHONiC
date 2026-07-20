@@ -29,4 +29,4 @@ Fully satisfied: names all nine documents integrated so far. Matches position 10
 
 ## Remaining constitutional questions
 
-- None new. §3 ("Operational Governance") again defers to "the Governance Charter and the constitutional principles from which it is derived" for operational accountability — consistent with, not a new instance of, the already-recorded governance-body gap.
+- None new. §3 ("Operational Governance") again defers to "the Governance Charter and the constitutional principles from which it is derived" for operational accountability — consistent with, not a new instance of, the already-recorded governance-body gap. Indexed as [Constitutional Discovery 003](../constitutional-discoveries/003-undefined-governance-authority-and-process.md).

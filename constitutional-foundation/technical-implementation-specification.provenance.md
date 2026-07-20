@@ -34,4 +34,4 @@ Fully satisfied: all five named documents (Executive Briefing, Technical Archite
 
 ## Remaining constitutional questions
 
-- None new. This document is a downstream implementation of already-integrated architecture and introduces no dependency, contradiction, or undefined mechanism of its own — its "Governance Implementation" section (§9) explicitly defers to "the constitutional governance framework from which it is derived," which is the same governance-body gap already recorded, not a new instance of it.
+- None new. This document is a downstream implementation of already-integrated architecture and introduces no dependency, contradiction, or undefined mechanism of its own — its "Governance Implementation" section (§9) explicitly defers to "the constitutional governance framework from which it is derived," which is the same governance-body gap already recorded, not a new instance of it. Indexed as [Constitutional Discovery 003](../constitutional-discoveries/003-undefined-governance-authority-and-process.md).
