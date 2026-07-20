@@ -23,7 +23,13 @@ A draft's provenance record should **not** assert how the draft relates to the a
 
 | Draft | Staged | Status | Supersedes |
 |---|---|---|---|
-| _None staged yet_ | — | — | — |
+| [Working Draft 1](working-draft-1.md) | not yet — scaffolded 2026-07-20 | **Scaffolded.** Placeholder file and provenance record exist; no constitutional content has been supplied. | none |
+
+**Status vocabulary used in this index**, in the order an entry is expected to pass through them: *Scaffolded* (location, filename and metadata reserved; no content) → *Staged* (manuscript received and transcribed verbatim, provenance recorded — the same meaning "Staged" carries in the parent directory's index) → *Reviewed* / *Integrated* (moved into [`constitutional-foundation/`](../../constitutional-foundation/README.md), a distinct later act like every other integration recorded in `CHANGELOG.md`).
+
+## Receiving the manuscript
+
+[`working-draft-1.md`](working-draft-1.md) and [`working-draft-1.provenance.md`](working-draft-1.provenance.md) already exist at their permanent filenames and location. When "POLiPHONiC Constitution — Working Draft 1" is actually delivered, it should be **written into the existing placeholder file in place** — replacing the placeholder notice with a verbatim transcription — and the provenance file replaced with a real record per the template in its own "When the manuscript is supplied" section. No new file, rename, or further restructuring of this directory should be needed for Working Draft 1 itself; only the Index row above and this section's status need updating, plus the usual `CHANGELOG.md` entry.
 
 ## Relationship to other structures
 

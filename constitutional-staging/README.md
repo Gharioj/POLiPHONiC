@@ -32,7 +32,7 @@ Where one submission is split across multiple files (e.g. to separate doctrine f
 | [2026-07-20 — Constitutional Working Session (Part 2)](2026-07-20-constitutional-discoveries-part2.md) | 2026-07-20 | Staged — not reviewed |
 | [2026-07-20 — Architecture and Development Observations](2026-07-20-architecture-and-development-observations.md) | 2026-07-20 | Staged — not reviewed; self-described as organisational, not doctrinal |
 
-See also [`UNDEFINED-TERMS.md`](UNDEFINED-TERMS.md) — terms named in staged material with no definition of their own anywhere in this repository — and [`constitutional-drafts/`](constitutional-drafts/README.md), the versioned index for complete constitutional drafts (currently empty; no draft has been staged yet).
+See also [`UNDEFINED-TERMS.md`](UNDEFINED-TERMS.md) — terms named in staged material with no definition of their own anywhere in this repository — and [`constitutional-drafts/`](constitutional-drafts/README.md), the versioned index for complete constitutional drafts (Working Draft 1 is currently scaffolded there — filename and metadata reserved — but not yet staged; no manuscript content has been supplied).
 
 ## Relationship to other structures
 
