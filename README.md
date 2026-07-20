@@ -2,7 +2,7 @@
 
 ## Status
 
-All 39 documents named in the corpus's own "Constitutional Provenance" chain are integrated into `constitutional-foundation/`. One Constitutional Resolution has been recorded. Five Constitutional Discoveries are open. One item is staged awaiting review. See `CHANGELOG.md` for the full integration history.
+All 39 documents named in the corpus's own "Constitutional Provenance" chain are integrated into `constitutional-foundation/`. One Constitutional Resolution has been recorded. Five Constitutional Discoveries are open. Two items are staged awaiting review. See `CHANGELOG.md` for the full integration history.
 
 ## Structure
 

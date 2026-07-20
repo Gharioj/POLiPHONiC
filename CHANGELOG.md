@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.34.0 — 2026-07-20
+Staged a second constitutional working-session submission (delivered in three parts, withheld from action until all three arrived): three items labelled "Constitutional Discovery" (Constitutional Flourishing, Constitutional Service, Constitutional Operation), a "Constitutional Architecture Observation" (a four-domain grouping of all terms introduced across both staged sessions, explicitly self-described as organisational rather than doctrinal), and a "Constitutional Development Observation" (a proposed next-phase focus, explicitly self-described as not itself doctrine). Same treatment and reasoning as the first session (v0.31.0): staged, not filed as a Discovery or Resolution.
+
+- `constitutional-staging/2026-07-20-constitutional-discoveries-part2.md` — verbatim, reformatted only into Markdown headings.
+- `constitutional-staging/2026-07-20-constitutional-discoveries-part2.provenance.md` — provenance, plus six points flagged for a future reviewer. The most significant: this session's "Constitutional Operation" progression (*discovery → understanding → responsibility → stewardship → governance → space → flourishing → purpose*) has different terms and a different endpoint than the first session's two progressions (which culminate in Constitutional Authority) — a genuine internal tension between the two staged sessions, not resolved here.
+- `constitutional-discoveries/001-rights-vs-ownership-undefined.md` and `003-undefined-governance-authority-and-process.md` — each given a second dated note pointing to this new staged material, without altering either discovery's existing text or "open" status.
+- `constitutional-staging/README.md` and root `README.md` updated to reflect the second staged item.
+- No constitutional judgement made: nothing was adopted, resolved, reconciled, or rewritten. No Constitutional Resolution was created. No new constitutional doctrine was authored by this integration step — only material already supplied was staged and cross-referenced.
+
 ## 0.33.0 — 2026-07-20
 `constitutional-staging/` was the only one of the four top-level directories without an index table (it had a prose "Current status" paragraph instead), and had no documented naming convention even though it will now accumulate more entries over time. Fixed both ahead of need, since more material is expected to be staged before it's reviewed.
 

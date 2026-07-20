@@ -23,6 +23,7 @@ Each staged item is a `YYYY-MM-DD-<slug>.md` file paired with a `YYYY-MM-DD-<slu
 | Item | Staged | Status |
 |---|---|---|
 | [2026-07-20 — Constitutional Working Session](2026-07-20-constitutional-working-session.md) | 2026-07-20 | Staged — not reviewed |
+| [2026-07-20 — Constitutional Working Session (Part 2)](2026-07-20-constitutional-discoveries-part2.md) | 2026-07-20 | Staged — not reviewed |
 
 ## Relationship to other structures
 

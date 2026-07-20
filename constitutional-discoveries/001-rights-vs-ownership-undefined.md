@@ -28,6 +28,8 @@ Open. No Constitutional Resolution addresses this discovery. Settling what "owne
 
 *Note, 2026-07-20:* newly staged material speaks directly to this question — see [`constitutional-staging/2026-07-20-constitutional-working-session.md`](../constitutional-staging/2026-07-20-constitutional-working-session.md), §4 and §10. It has not been reviewed or adopted as a Resolution, so this discovery remains open.
 
+*Note, 2026-07-20 (part 2):* a second staged item groups Rights and Ownership together without altering either — see [`constitutional-staging/2026-07-20-constitutional-discoveries-part2.md`](../constitutional-staging/2026-07-20-constitutional-discoveries-part2.md), "Constitutional Architecture Observation," domain IV. Still not reviewed or adopted.
+
 ---
 
 [← Constitutional Discoveries](README.md)

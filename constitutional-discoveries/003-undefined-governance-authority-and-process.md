@@ -27,6 +27,8 @@ Open. Naming who holds governance authority, and by what process it is exercised
 
 *Note, 2026-07-20:* newly staged material touches this question in principle terms without naming a concrete mechanism — see [`constitutional-staging/2026-07-20-constitutional-working-session.md`](../constitutional-staging/2026-07-20-constitutional-working-session.md), §5, §11 and §12. It has not been reviewed or adopted as a Resolution, so this discovery remains open.
 
+*Note, 2026-07-20 (part 2):* a second staged item ("Constitutional Service," "Constitutional Operation," and the "Constitutional Architecture Observation") again describes governance's purpose and effect without naming a concrete body or process — see [`constitutional-staging/2026-07-20-constitutional-discoveries-part2.md`](../constitutional-staging/2026-07-20-constitutional-discoveries-part2.md). Still not reviewed or adopted.
+
 ---
 
 [← Constitutional Discoveries](README.md)
