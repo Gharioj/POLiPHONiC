@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.39.0 — 2026-07-20
+Banked the Constitutional Editorial Review Report for "POLiPHONiC Constitution — Working Draft 1," produced and delivered in the prior conversation turn, as the official, permanent editorial review and the editorial baseline for Working Draft 2. Concludes Constitutional Phase 1. This is a repository-preservation exercise: the report is stored verbatim, exactly as produced; no recommendation in it was implemented; no constitutional text was touched; no editorial or constitutional decision was made.
+
+- **Added** `constitution/working-draft-1-editorial-review.md` — the full Editorial Review Report (5 objective editorial issues, 6 constitutional coherence issues, each with citations, an explanation, and a minimum recommended action, plus a summary table), preserved exactly as originally produced.
+- **`constitution/working-draft-1.provenance.md`** — added an "Editorial Review" section linking to the banked report and naming it the editorial baseline for Working Draft 2; "Current status" restructured into the three explicit phase markers requested: Working Draft 1 — Complete; Editorial Review — Complete; Working Draft 2 — Not Started.
+- **`constitution/README.md`** — added a "Constitutional Phase 1 — status" section with the same three markers; Index table gained an "Editorial Review" column; "Future drafts" section updated to note the banked review as Working Draft 2's starting checklist, not a mandate.
+- Root `README.md` (Status, Phase) — updated to lead with the three phase markers and state plainly that Working Draft 2 has not started and no further constitutional work proceeds without further instruction.
+- No constitutional judgement made: no article was reworded, renumbered, merged, relocated, or reconciled; no recommendation from the editorial review was acted on; no Working Draft 2 file, section, or content was created.
+
 ## 0.38.0 — 2026-07-20
 Received and integrated "POLiPHONiC Constitution — Working Draft 1" — the first authoritative constitutional draft, transmitted in eight sequential manuscript sections and integrated per explicit instruction into a new top-level location, `constitution/`, distinct from `constitutional-foundation/`. This is a repository integration exercise: no constitutional text was written, reworded, reinterpreted, renumbered, or reconciled at any point; every anomaly found was reported, not corrected.
 
