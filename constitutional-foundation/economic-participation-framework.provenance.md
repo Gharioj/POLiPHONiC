@@ -29,4 +29,4 @@ Fully satisfied: names Executive Briefing, Technical Architecture, Governance Ch
 
 ## Remaining constitutional questions
 
-- None new. This document elaborates the already-established principle that economic participation is a "constitutional consequence" of recognised participation (Creator Constitution §6), without introducing a new mechanism, contradiction, or undefined authority. It does not touch the rights-vs-ownership question and does not claim to. See [Constitutional Discovery 001](../constitutional-discoveries/001-rights-vs-ownership-undefined.md).
+- None new. This document elaborates the already-established principle that economic participation is a "constitutional consequence" of recognised participation (Creator Constitution §6), without introducing a new mechanism, contradiction, or undefined authority. It does not touch the rights-vs-ownership question and does not claim to. Indexed as [Constitutional Discovery 001](../constitutional-discoveries/001-rights-vs-ownership-undefined.md).
