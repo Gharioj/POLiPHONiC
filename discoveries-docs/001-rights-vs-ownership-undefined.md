@@ -7,7 +7,7 @@ status: open
 layout: doc
 section_url: /discoveries/
 section_label: "Discoveries"
-summary: ""Rights" asserted alongside a disclaimer of "ownership," with the distinction never defined."
+summary: "'Rights' asserted alongside a disclaimer of 'ownership,' with the distinction never defined."
 next:
   title: "Discovery 002 — Technical Architecture Source Duplication"
   url: "/discoveries/002-technical-architecture-source-duplication/"
