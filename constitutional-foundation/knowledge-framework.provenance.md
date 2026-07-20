@@ -26,4 +26,4 @@ This is judged a document-production defect — most likely an incomplete save o
 ## Remaining constitutional questions
 
 - None of the missing content (a hypothetical Assurance section, Evolution section, or Closing Statement) can be inferred — nothing is known about what a completed version would have said, so nothing is flagged as an open constitutional question beyond the fact of the gap itself.
-- If a corrected or completed version of this source document exists or is later found, this integration should be revisited.
+- If a corrected or completed version of this source document exists or is later found, this integration should be revisited. Indexed as [Constitutional Discovery 004](../constitutional-discoveries/004-source-documents-found-incomplete.md).

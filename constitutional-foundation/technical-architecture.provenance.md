@@ -40,5 +40,5 @@ Same method as prior integrations: the .docx unzipped as OOXML, text recovered b
 
 ## Unresolved constitutional questions
 
-- The duplication itself is treated here as a document-production artefact, not a constitutional question — but *why* the document was left in this state (an incomplete edit, a merge error, or something else) is not known, and the underlying source file has not been corrected. If the Owner intends this repository's Foundation to track a "cleaned" master, that master should eventually be reconciled with the original at its source.
+- The duplication itself is treated here as a document-production artefact, not a constitutional question — but *why* the document was left in this state (an incomplete edit, a merge error, or something else) is not known, and the underlying source file has not been corrected. If the Owner intends this repository's Foundation to track a "cleaned" master, that master should eventually be reconciled with the original at its source. Indexed as [Constitutional Discovery 002](../constitutional-discoveries/002-technical-architecture-source-duplication.md).
 - No other genuinely constitutional tension (comparable to the Creator Constitution's rights/ownership question) was found in this document's substance.

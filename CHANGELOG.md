@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.25.0 — 2026-07-20
+Backlinked each `.provenance.md` file in `constitutional-foundation/` to the Constitutional Discovery record(s) it originally fed, completing the cross-reference in both directions (discoveries already linked to provenance; provenance now links back). Editorial/structural only: the substance of each provenance file's own commentary was left untouched, only a citation was appended.
+
+- 13 provenance files updated: `creator-constitution`, `rights-framework`, `authorship-framework`, `custodianship-framework`, `economic-participation-framework`, `dispute-resolution-framework`, `technical-architecture`, `governance-charter`, `founding-partners-charter`, `governance-procedures-framework`, `amendment-framework`, `knowledge-framework`, `interpretation-framework`.
+- No constitutional judgement made: no discovery was resolved, no wording of any constitutional document was changed.
+
 ## 0.24.0 — 2026-07-20
 Added `constitutional-discoveries/` — a chronological index of constitutional questions, tensions and anomalies already noticed and recorded (in `.provenance.md` files and this Changelog) during the integration sequence, but never before collected in one place. Repository organisation only: no constitutional text was rewritten, no constitutional question was resolved, and no document in `constitutional-foundation/` or `constitutional-resolutions/` was modified.
 

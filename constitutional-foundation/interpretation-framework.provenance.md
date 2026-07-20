@@ -29,7 +29,7 @@ This is judged, consistent with the Knowledge Framework's gap, a document-produc
 ## Remaining constitutional questions
 
 - None of the missing sections' content can be inferred or is claimed to be known. If a complete version of this source document is ever located, this integration should be revisited and reconciled against it.
-- This is the second document in the Foundation (after the Constitutional Knowledge Framework) found to be genuinely incomplete in its source form, distinct from and more severe than the Technical Architecture's duplication. Between the two, it suggests the underlying `.docx` corpus itself contains save/export defects independent of anything done during integration — worth noting as a pattern, not just two isolated incidents.
+- This is the second document in the Foundation (after the Constitutional Knowledge Framework) found to be genuinely incomplete in its source form, distinct from and more severe than the Technical Architecture's duplication. Between the two, it suggests the underlying `.docx` corpus itself contains save/export defects independent of anything done during integration — worth noting as a pattern, not just two isolated incidents. Indexed as [Constitutional Discovery 004](../constitutional-discoveries/004-source-documents-found-incomplete.md).
 
 ## Sequence completion note
 

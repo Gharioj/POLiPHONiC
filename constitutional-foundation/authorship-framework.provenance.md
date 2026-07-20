@@ -20,4 +20,4 @@ Structure preserved as authored (seven sections, introduction, closing statement
 
 ## Remaining constitutional questions
 
-- §2 again distinguishes authorship from "recording creative ownership" without defining ownership, the same pattern as the Rights Framework. Consistent with, not a new instance of, the already-recorded rights-vs-ownership gap.
+- §2 again distinguishes authorship from "recording creative ownership" without defining ownership, the same pattern as the Rights Framework. Consistent with, not a new instance of, the already-recorded rights-vs-ownership gap. Indexed as [Constitutional Discovery 001](../constitutional-discoveries/001-rights-vs-ownership-undefined.md).
